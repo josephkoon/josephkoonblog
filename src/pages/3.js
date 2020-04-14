@@ -13,6 +13,8 @@ export default () => (
 		<p>Many of its components and design elements come directly from aerospace industry</p>
 		<p>It has the 80's retro-future aesthetic as if it was pulled right of of Blade Runner or as if it might become a Transformer.</p>
 		<br/>
+		<p>It was barely street legal and produced by a small American company that was trying to break into the 'super car' market to compete with foreign brands like Lamborghini.
+		<br/>
 		<img height='200px' src='https://cdn.motor1.com/images/mgl/mLRqo/s1/vector-w8.jpg'/>
 
 	</div>
