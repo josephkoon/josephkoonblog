@@ -9,7 +9,7 @@ export default () => (
 		<h1>Vector R8 [Badass Super Car]</h1>
 		<p style={{color:'gray'}}>April 14, 2020</p>
 		<br/>
-		<p>This is the insanely cool 80's supercar the vector R8.</p>
+		<p>This is the insanely cool 80's supercar the Vector R8.</p>
 		<p>Many of its components and design elements come directly from aerospace industry</p>
 		<p>It has the 80's retro-future aesthetic as if it was pulled right of of Blade Runner or as if it might become a Transformer.</p>
 		<br/>
