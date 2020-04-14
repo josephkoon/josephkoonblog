@@ -3,10 +3,12 @@ import { Link } from "gatsby"
 
 
 export default () => (
-	<div style={{padding:'20px'}}>
+	<div style={{padding:'40px'}}>
+		<Link to='/'> /Back</Link>
 		
-		<p style={{color:'gray'}}>April 13, 2020</p>
 		<h1>Business Idea : Mobile Bike Shed</h1>
+		<p style={{color:'gray'}}>April 13, 2020</p>
+		<br/>
 		<p>Wouldn't it be great to have your bike picked up or delivered?</p>
 		<p>My car never fits a bike. I don't want to have to add a bike rack... and can't rent a truck just to move the bike</p>
 		<p>It'd be awesome to have a on-demand service to transport bikes</p>

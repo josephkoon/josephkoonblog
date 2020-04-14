@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 
 export default () => (
-	<div style={{padding:'20px'}}>
+	<div style={{padding:'40px'}}>
 		
 		<h1>Joseph Koon Blog</h1>
 		<img height='200px' src="https://assets.justinmind.com/wp-content/uploads/2018/01/ui-layout-design-ui-design-website-design-ui-patterns-header.png" alt="" />
@@ -12,10 +12,9 @@ export default () => (
 		<hr/>
 		<Link to='1'>Business Idea : Mobile Bike Shed</Link>
 		<hr/>
-		<Link to='1'>Second Post</Link>
+		<Link to='2'>Creativity During COVID19</Link>
 		<hr/>
-		<Link to='1'>Third Post</Link>
-		<hr/>
+
 
 	</div>
 )
