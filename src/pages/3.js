@@ -15,7 +15,7 @@ export default () => (
 		<br/>
 		<p>It was barely street legal and produced by a small American company that was trying to break into the 'super car' market to compete with foreign brands like Lamborghini.
 		<br/>
-		<img height='200px' src='https://cdn.motor1.com/images/mgl/mLRqo/s1/vector-w8.jpg'/>
+		<img height='200px' src='https://1.bp.blogspot.com/-llZiY-fOIzk/T8d1g3obWXI/AAAAAAAAHf8/dQKtFqleyOI/s1600/n1p2627.jpg'/>
 
 	</div>
 )
