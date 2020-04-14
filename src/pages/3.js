@@ -11,7 +11,9 @@ export default () => (
 		<br/>
 		<p>This is the insanely cool 80's supercar the vector R8.</p>
 		<p>Many of its components and design elements come directly from aerospace industry</p>
+		<p>It has the 80's retro-future aesthetic as if it was pulled right of of Blade Runner or as if it might become a Transformer.</p>
+		<br/>
 		<img height='200px' src='https://cdn.motor1.com/images/mgl/mLRqo/s1/vector-w8.jpg'/>
-		
+
 	</div>
 )
