@@ -6,7 +6,7 @@ export default () => (
 	<div style={{padding:'40px'}}>
 		<Link to='/'> /Back</Link>
 		
-		<h1>Business Idea : Mobile Bike Shed</h1>
+		<h1>Business Concept : Mobile Bike Shed</h1>
 		<p style={{color:'gray'}}>April 13, 2020</p>
 		<br/>
 		<p>Wouldn't it be great to have your bike picked up or delivered?</p>
