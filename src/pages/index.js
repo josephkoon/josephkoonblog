@@ -9,6 +9,9 @@ export default () => (
 		<img height='200px' src="https://juddfoundation.org/wp-content/uploads/2019/03/IS.26_4F5A8669-1024x682.jpg" alt="" />
 		<br/>
 
+
+		<hr/>
+		<Link to='5'>Philosophy : Incremental "Life Upgrading"</Link>
 		<hr/>
 		<Link to='4'>Business Concept: Remote Mastermind Meetings</Link>
 		<hr/>

@@ -4,3 +4,7 @@
 html {
   font-family: 'Roboto', sans-serif;
 }
+
+strong{
+	font-weight:600;
+}
