@@ -3,24 +3,36 @@ import { Link } from "gatsby"
 
 
 export default () => (
-	<div style={{padding:'40px'}}>
+	<div style={{paddingLeft:'25%', paddingRight:'25%', textAlign:'center'}}>
 		
 		<h1>Joseph Koon Blog</h1>
-		<img height='200px' src="https://juddfoundation.org/wp-content/uploads/2019/03/IS.26_4F5A8669-1024x682.jpg" alt="" />
+		<img style={{width:'100%'}} src="https://juddfoundation.org/wp-content/uploads/2019/03/IS.26_4F5A8669-1024x682.jpg" alt="" />
 		<br/>
 
+		<Link to='6'>
+			<div className='card'>Software vs Physical Products</div>
+		</Link>
+	
+		<Link to='5'>
+			<div className='card'>Philosophy : Incremental "Life Upgrading"</div>
+		</Link>
+	
+		<Link to='4'>
+			<div className='card'>Business Concept: Remote Mastermind Meetings</div>
+		</Link>
+	
+		<Link to='3'>
+			<div className='card'>Vector R8 [Badass Super Car]</div>
+		</Link>
+	
+		<Link to='2'>
+			<div className='card'>Creativity During COVID19</div>
+		</Link>
 
-		<hr/>
-		<Link to='5'>Philosophy : Incremental "Life Upgrading"</Link>
-		<hr/>
-		<Link to='4'>Business Concept: Remote Mastermind Meetings</Link>
-		<hr/>
-		<Link to='3'>Vector R8 [Badass Super Car]</Link>
-		<hr/>
-		<Link to='2'>Creativity During COVID19</Link>
-		<hr/>
-		<Link to='1'>Business Concept : Mobile Bike Shed</Link>
-		<hr/>
+		<Link to='1'>
+			<div className='card'>Business Concept : Mobile Bike Shed</div>
+		</Link>
+
 
 
 	</div>
