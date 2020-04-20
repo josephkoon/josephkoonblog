@@ -1,29 +1,32 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+
 html {
   font-family: 'Roboto', sans-serif;
 }
+
 
 strong{
 	font-weight:600;
 }
 
-hr{
-	margin-top:20px;
-	margin-bottom:20px;
-	border: 1px solid rgb(240,240,240);
-}
 
 .card{
 	border:1px solid rgb(220,220,220);
 	border-radius:4px;
 	padding:20px;
-	margin-top:10px;
-	margin-bottom:10px;
+	margin-top:15px;
+	margin-bottom:15px;
+	text-decoration: none !important;
 
 	-webkit-box-shadow: 0 2px 2px -2px darkgray;
 	   -moz-box-shadow: 0 2px 2px -2px darkgray;
 	        box-shadow: 0 2px 2px -2px darkgray;
 
+}
+
+
+.card:hover{
+	border:1px solid rgb(100,100,100);
 }
