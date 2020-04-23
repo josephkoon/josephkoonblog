@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 
 
 export default () => (
-	<div style={{paddingTop:'10px', paddingBottom:'20px', paddingLeft:'25%', paddingRight:'25%'}}>
+	<div style={{paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%'}}>
 		<Link to='/'> /Back</Link>
 		
 		<h1>Business Concept : Remote Mastermind Meetings</h1>
