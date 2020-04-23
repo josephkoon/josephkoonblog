@@ -6,7 +6,7 @@ export default () => (
 	<div style={{paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%', textAlign:'center'}}>
 		
 		<h1>Joseph Koon Blog</h1>
-		<img style={{width:'100%'}} src="https://images.squarespace-cdn.com/content/v1/5b0efe358ab722c2102aea27/1537021775335-BYTERJP8LESL65VNSVQ1/ke17ZwdGBToddI8pDm48kD4V-B7oD723U9vrKklU7tcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dj5KYrFoTb0WzFCSCL8o1xGmhcMtt62SMpLZ0E5f3Z9OoRwB-dUGsSquCnVTFQcaRg/lombardi.jpg?format=2500w" alt="" />
+		<img style={{width:'100%'}} src="https://www.diaart.org/media/w1050h700/webimages/leva-installation-1.jpg" alt="" />
 		<br/>
 
 
