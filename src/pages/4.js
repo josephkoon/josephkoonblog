@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Business Concept : Remote Mastermind Meetings</h1>
-		<p style={{color:'gray'}}>April 15, 2020</p>
+		<p style={{color:'lightgray'}}>April 15, 2020</p>
 		<br/>
 
 		<p>Social distancing is getting old. Local meetup events are non-existent. How can we network? How can we find mentors?</p>

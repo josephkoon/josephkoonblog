@@ -1,9 +1,9 @@
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&display=swap');
 
 
 html {
-  font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -13,7 +13,6 @@ strong{
 
 
 p{
-	font-size:15px;
 	line-height:1.5;
 	color:rgb(60,60,60);
 	margin-top:1.5;
@@ -28,9 +27,9 @@ p{
 	margin-bottom:15px;
 	text-decoration: none !important;
 
-	-webkit-box-shadow: 0 2px 2px -2px darkgray;
-	   -moz-box-shadow: 0 2px 2px -2px darkgray;
-	        box-shadow: 0 2px 2px -2px darkgray;
+	-webkit-box-shadow: 0 2px 2px -2px blue;
+	   -moz-box-shadow: 0 2px 2px -2px blue;
+	        box-shadow: 0 2px 2px -2px blue;
 
 }
 

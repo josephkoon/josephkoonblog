@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Software vs Physical Products</h1>
-		<p style={{color:'gray'}}>April 20, 2020</p>
+		<p style={{color:'lightgray'}}>April 20, 2020</p>
 		<br/>
 
 		<p>The word 'product' now refers to software rather than physical products.</p>

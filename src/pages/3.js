@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Vector R8 [Badass Super Car]</h1>
-		<p style={{color:'gray'}}>April 14, 2020</p>
+		<p style={{color:'lightgray'}}>April 14, 2020</p>
 		<br/>
 		<p>This is the insanely cool 80's supercar the Vector R8.</p>
 		<p>Many of its components and design elements come directly from aerospace industry</p>

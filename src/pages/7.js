@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Extreme Personalization</h1>
-		<p style={{color:'gray'}}>April 22, 2020</p>
+		<p style={{color:'lightgray'}}>April 22, 2020</p>
 		<br/>
 
 		<p>As it opens, the website adjusts and tunes itself exactly to our needs / desires.  Each person will have a completely different experience.</p>

@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Donation Economics</h1>
-		<p style={{color:'gray'}}>April 26, 2020</p>
+		<p style={{color:'lightgray'}}>April 26, 2020</p>
 		
 		<br/>
 		<p>Instead of charging a flat transaction or ‘platform fee’ several web platforms have switched to donation / tipping systems.</p> 

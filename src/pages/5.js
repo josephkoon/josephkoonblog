@@ -7,7 +7,7 @@ export default () => (
 		<Link to='/'> /Back</Link>
 		
 		<h1>Philosophy : Incremental "Life Upgrading"</h1>
-		<p style={{color:'gray'}}>April 18, 2020</p>
+		<p style={{color:'lightgray'}}>April 18, 2020</p>
 		<br/>
 
 		<p>We've heard stories of people winning the lottery and then being broke several years letter - or artists who become famous only to die a year later from drug addiciton.</p>
