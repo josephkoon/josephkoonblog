@@ -6,11 +6,11 @@ export default () => (
 	<div style={{backgroundColor:'#fff7f7', paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%', textAlign:'center'}}>
 		
 		<h1>Joseph Koon Blog</h1>
-		<img style={{width:'100%'}} src="https://www.diaart.org/media/w1050h700/webimages/leva-installation-1.jpg" alt="" />
+
+		<p>something I'm listening to : </p>
+		<iframe width="280" height="160" src="https://www.youtube.com/embed/ZIU0RMV_II8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 		<br/>
-
-
-
+		<br/>
 
 		<Link to='9'>
 			<div className='card'>Things People Love</div>
