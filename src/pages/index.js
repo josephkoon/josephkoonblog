@@ -8,7 +8,9 @@ export default () => (
 		<h1>Joseph Koon Blog</h1>
 
 		<p>something I'm listening to : </p>
-		<iframe width="280" height="160" src="https://www.youtube.com/embed/ZIU0RMV_II8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/76034666&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 		<br/>
 		<br/>
 
