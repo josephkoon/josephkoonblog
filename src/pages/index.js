@@ -9,6 +9,11 @@ export default () => (
 		<img style={{width:'100%'}} src="https://www.diaart.org/media/w1050h700/webimages/leva-installation-1.jpg" alt="" />
 		<br/>
 
+
+		<Link to='9'>
+			<div className='card'>Things People Love</div>
+		</Link>
+
 		<Link to='8'>
 			<div className='card'>Donation Economics</div>
 		</Link>
