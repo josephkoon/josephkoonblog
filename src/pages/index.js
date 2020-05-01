@@ -1,18 +1,20 @@
 import React from "react"
 import { Link } from "gatsby"
+import { FaHeart, FaLevelUpAlt, FaBlog } from 'react-icons/fa';
 
 
 export default () => (
 	<div style={{backgroundColor:'#fff7f7', paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%', textAlign:'center'}}>
 		
-		<h1>Joseph Koon Blog</h1>
+		<h1>Joseph Koon  Blog<FaBlog/></h1>
+		 
 
 		<img src='https://creators-images.vice.com/blog_article_images/images/000/024/697/Screen_shot_2012-02-20_at_3_08_25_PM_detail_em.jpg?1329738926'/>
 		<br/>
 		<br/>
 
 		<Link to='9'>
-			<div className='card'>Things People Love</div>
+			<div className='card'>Things People Love <FaHeart/></div>
 		</Link>
 
 		<Link to='8'>
@@ -28,7 +30,7 @@ export default () => (
 		</Link>
 	
 		<Link to='5'>
-			<div className='card'>Philosophy : Incremental "Life Upgrading"</div>
+			<div className='card'>Philosophy : Incremental "Life Upgrading" <FaLevelUpAlt/></div>
 		</Link>
 	
 		<Link to='4'>
