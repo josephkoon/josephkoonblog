@@ -3,11 +3,13 @@ import { Link } from "gatsby"
 
 
 export default () => (
-	<div style={{backgroundColor:'#fffcfa', paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%', textAlign:'center'}}>
+	<div style={{backgroundColor:'#fff7f7', paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%', textAlign:'center'}}>
 		
 		<h1>Joseph Koon Blog</h1>
 		<img style={{width:'100%'}} src="https://www.diaart.org/media/w1050h700/webimages/leva-installation-1.jpg" alt="" />
 		<br/>
+
+
 
 
 		<Link to='9'>

@@ -13,12 +13,15 @@ export default () => (
 		<p>My car never fits a bike. I don't want to have to add a bike rack... and can't rent a truck just to move the bike</p>
 		<p>It'd be awesome to have a on-demand service to transport bikes</p>
 		<br/>
+		<img width='250px' src='https://lh3.googleusercontent.com/proxy/Rmj-5n_ddp--RYdS62shTYQFCHthphxWeKk80cZWE0Us65aScREdRcFpIoEUXH1-txNiwyGwfzGCWnRSLsrz1uLdHvRqoJdj_jUJsb8mlYdnzo1PIaO_X-E'/>
+		<br/>
+		
 		<p>I mentioned this to my friend Joel... he thought it'd be great for other types of sports gear like Canoes</p>
 		<p>I'm imaginging a special vehicle... a truck the expands to reveal the bikes within</p>
 		<p>What are the use-cases? I need a bike delivered for the day. I road a bike several hundred miles and need a ride bike. I want a canoe delivered for the weekend...</p>
 		<br/>
 		<br/>
-		<img width='300px' src='https://live.staticflickr.com/3793/33411304676_7754f97292_b.jpg'/>
+		<img width='250px' src='https://live.staticflickr.com/3793/33411304676_7754f97292_b.jpg'/>
 		<p>The vehicle could end up looking something like this. An expanding vehicle with racks for different types of gear</p>
 		
 	</div>
