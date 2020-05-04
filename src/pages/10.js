@@ -14,7 +14,7 @@ export default () => (
 
 			<p>Business truly isn’t about money. The business that succeed serves and connects the most people. It solves people’s problems (and not just customers but employees, vendors, wholesalers etc).</p>
 
-			<p>Thing about social networks. Thing about online games. Connect people. Make things that people like.</p>
+			<p>Think about social networks. Think about online games. Connect people. Make things that people like.</p>
 
 			<br/>
 
