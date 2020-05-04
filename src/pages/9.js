@@ -16,6 +16,8 @@ export default () => (
 
 			<p>Thing about social networks. Thing about online games. Connect people. Make things that people like.</p>
 
+			<p>So, be a people pleaser.</p>
+
 			<p>(On the opposite end. Businesses that fail do not thing about people. Do not think about their needs. Do not make things that they truly love. They take more than what they provide.)</p>
 
 	</div>
