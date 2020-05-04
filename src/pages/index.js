@@ -13,6 +13,12 @@ export default () => (
 		<br/>
 		<br/>
 
+
+
+		<Link to='10'>
+			<div className='card'>Business = People</div>
+		</Link>
+
 		<Link to='9'>
 			<div className='card'>Things People Love <FaHeart/></div>
 		</Link>
