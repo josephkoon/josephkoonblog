@@ -10,21 +10,27 @@ export default () => (
 			<p style={{color:'lightgray'}}>May 3, 2020</p>
 			<br/>
 		
-			<p>Business is a science of people. Understanding what they like. Understanding what motivates them. Understanding how to make the most people happy.</p>
+			<p><strong>Business is a science of people.</strong> Understanding what they like. Understanding what motivates them. Understanding how to make the most people happy.</p>
 
 			<p>Business truly isn’t about money. The business that succeed serves and connects the most people. It solves people’s problems (and not just customers but employees, vendors, wholesalers etc).</p>
 
 			<p>Thing about social networks. Thing about online games. Connect people. Make things that people like.</p>
 
-			<p>So, how do businesses do it?</p>
+			<br/>
+
+			<p><strong>So, how do businesses do it?</strong></p>
 			<p>They strategize their product - to provide services and features that people need.</p>
 			<p>They target their market - understanding the exact needs / pains of their customers.</p>
 			<p>They provide value - pricing their service or product as low as possible to provide maximum value.</p>
 			<p>They support their employees - paying them, providing education, providing structure for their lives.</p>
 
+			<br/>
 			<p>(On the opposite end. Businesses that fail do not thing about people. Do not think about their needs. Do not make things that they truly love. They take more than what they provide.)</p>
 
-			<img src='https://blog.nuclino.com/files/9f08086a-9bde-4d95-929a-f7f2c67bb1ad/facebook-office-plan.jpg' width='200px'/>
+
+			<br/>
+
+			<img src='https://blog.nuclino.com/files/9f08086a-9bde-4d95-929a-f7f2c67bb1ad/facebook-office-plan.jpg' height='200px'/>
 
 	</div>
 )
