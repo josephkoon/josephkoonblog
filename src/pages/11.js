@@ -5,9 +5,10 @@ import { Link } from "gatsby"
 
 export default () => (
 	<div style={{paddingTop:'10px', paddingBottom:'20px', paddingLeft:'20%', paddingRight:'20%'}}>
+
 		<Link to='/'> /Back</Link>
 		
-		<h1>Product Typologies</h1>
+		<h1>Software Product Typologies</h1>
 		<p style={{color:'lightgray'}}>May 18, 2020</p>
 		<br/>
 
@@ -19,7 +20,8 @@ export default () => (
 
 		<br/>
 		<p>Infrastructure Services</p>
-		<p>Ex : AWS, GCP</p>
+		<p>Ex : AWS, GCP, Heroku</p>
+
 
 		<br/>
 		<p>Data Services</p>
@@ -27,11 +29,11 @@ export default () => (
 
 		<br/>
 		<p>Service Aggregators</p>
-		<p>Ex : 3D Hubs, Yelp (?)
+		<p>Ex : 3D Hubs, Yelp (?)</p>
 
 		<br/>
 		<p>Games</p>
-		<p>Ex : Ragnarok Online, Final Fantasy</p>
+		<p>Ex : Ragnarok Online, Final Fantasy Online</p>
 
 		<br/>
 		<p>Content Marketplaces</p>

@@ -16,7 +16,7 @@ export default () => (
 
 
 		<Link to='11'>
-			<div className='card'>Product Typologies</div>
+			<div className='card'>Software Product Typologies</div>
 		</Link>
 
 		<Link to='10'>
