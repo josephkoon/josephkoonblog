@@ -25,6 +25,8 @@ export default () => (
 			<p>They support their employees - paying them, providing education, providing structure for their lives.</p>
 
 			<br/>
+
+
 			<p>(On the opposite end. Businesses that fail do not think about people. Do not think about their needs. Do not make things that they truly love. They take more than what they provide.)</p>
 
 

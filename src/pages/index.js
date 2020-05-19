@@ -15,6 +15,10 @@ export default () => (
 
 
 
+		<Link to='11'>
+			<div className='card'>Product Typologies</div>
+		</Link>
+
 		<Link to='10'>
 			<div className='card'>Business = People</div>
 		</Link>
